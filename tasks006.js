@@ -6,7 +6,7 @@
 
 function strReplace(string, valueToReplace, valueToReplaceWith){
     [valueToReplaceWith, valueToReplace] = [valueToReplace, valueToReplaceWith]
-    string = `Value of old 'string': ${string}\nNew value of \'valueToReplace\': ${valueToReplace}`
+    string = `Value of old \'string\': ${string}\nNew value of \'valueToReplace\': ${valueToReplace}`
     return string
 }
 
