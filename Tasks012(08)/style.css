@@ -1,0 +1,17 @@
+
+body{
+    width: 55%;
+    margin: 0 auto;
+    padding: 20px;
+}
+article{
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+article>h1{
+    font-size: 20px;
+}
